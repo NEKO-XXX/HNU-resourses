@@ -1,0 +1,49 @@
+8
+############ two int divide
+in R1
+in R2
+######## 1>b(0>=b) ?
+movi 1
+sub R0,R2
+movd
+movi 34 
+add R3,R0
+jg
+######## 1<=b
+#### initialize
+movi 0
+movb R0,R1 # store original a 
+movi -1
+add R2,R0  # b = b-1
+#### recurrent begin
+movi 0
+movc R1,R0 # load current a (the rest)
+sub R1,R2  # a = a-(b-1);  G ?
+movi -1
+add R1,R0  # a = a-1
+movi 0
+movb R0,R1 # store current a 
+movi 1
+movc R1,R0 # load the result
+add R1,R0  # result = result+1
+movb R0,R1 # store the result
+movd
+movi -11
+add R3,R0
+jg 
+#### recurrent end
+movi 1
+add R2,R0  # b = b+1
+movi 0
+movc R1,R0 
+add R1,R2  # rest = rest+b
+movi 1
+movc R2,R0
+sub R2,R0  # result = result-1
+out R2
+out R1
+halt
+######## 1>b
+movi 0
+out R0
+halt
