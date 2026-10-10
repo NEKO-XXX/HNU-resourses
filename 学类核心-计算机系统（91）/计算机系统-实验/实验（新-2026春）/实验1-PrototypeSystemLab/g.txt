@@ -1,0 +1,141 @@
+8
+############ two int divide (include negative int)
+######## a = 0-a if a < 0
+in R1
+movi 0
+movb R0,R1  # store original a at 0
+sub R0,R1
+mova R1,R0
+movi 2
+movd
+movi 10
+add R3,R0
+jg          # jump if original a < 0 
+movi 2          
+movc R1,R0  # record a_is_positive at 2
+add R1,R0
+movb R0,R1
+movi 0
+movc R1,R0  # load original a
+######## a = 0-a
+
+######## b = 0-b if b < 0
+in R2
+movi 4
+movb R0,R2 # store original b at 4
+movi 0
+movb R0,R2 # store original b at 0
+sub R0,R2
+mova R2,R0
+movd
+movi 10
+add R3,R0
+jg         # jump if original b < 0 
+movi 3
+movc R2,R0 # record b_is_positive at 3
+add R2,R0
+movb R0,R2
+movi 0
+movc R2,R0 # load original b
+######## b = 0-b
+
+############ two positive int divide
+########  b=0 ?
+movi 1
+sub R0,R2
+movd
+movi 82 
+add R3,R0
+jg
+######## 0!=b
+movi 0
+movb R0,R1
+movi -1
+add R2,R0  # b-1
+#### recurrent begin
+movi 0
+movc R1,R0
+sub R1,R2  # a = a-(b-1)
+movi -1
+add R1,R0  # a = a-1
+movi 0
+movb R0,R1
+movi 1
+movc R1,R0
+add R1,R0
+movb R0,R1
+movd
+movi -11
+add R3,R0
+jg 
+#### recurrent end
+movi 1
+add R2,R0
+movi 0
+movc R1,R0 # load the rest
+add R1,R2  # rest + 1*b
+movb R0,R1
+movi 1
+movc R2,R0 # load the result
+sub R2,R0  # result - 1
+######## result = 0-result if a*b < 0
+## if original a < 0
+movi 2
+movc R1,R0
+sub R0,R1
+movd
+movi 7
+add R3,R0
+jg
+movi 0
+sub R0,R2
+mova R2,R0
+## if original b < 0
+movi 3
+movc R1,R0
+sub R0,R1
+movd
+movi 7
+add R3,R0
+jg
+movi 0
+sub R0,R2
+mova R2,R0
+########
+
+######## if a<0 && b>0: result-=1,rest = |b|-rest 
+movi 4
+movc R3,R0
+movi 0
+sub R0,R3
+movd
+movi 21
+add R3,R0
+jg        # if b<0, jump
+movi -1
+sub R2,R0
+add R2,R0
+movd
+movi 14
+add R3,R0
+jg        # if b<0 && result >=0, jump
+movi 1
+sub R2,R0
+movi 0
+movc R1,R0
+movi 4 
+movc R3,R0 # load ori b from 4
+sub R3,R1 
+mova R1,R3 # rest=b-rest
+movi 0
+movb R0,R1 # store the last rest
+########
+out R2
+movi 0
+movc R1,R0  # load the rest
+out R1
+halt
+######## 0=b
+movi 0
+out R0
+halt

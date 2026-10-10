@@ -1,0 +1,36 @@
+8
+# two int divide
+in R1
+in R2
+movi 0
+movb R0,R1
+movi -1
+add R2,R0
+# recurrent begin
+movi 0
+movc R1,R0
+sub R1,R2
+movi -1
+add R1,R0  
+movi 0
+movb R0,R1
+movi 1
+movc R1,R0
+add R1,R0
+movb R0,R1
+movd
+movi -11
+add R3,R0
+jg 
+# recurrent end
+movi 1
+add R2,R0
+movi 0
+movc R1,R0
+add R1,R2
+movi 1
+movc R2,R0
+sub R2,R0
+out R2
+out R1
+halt
