@@ -4,78 +4,78 @@
 <table>
   <tr><th colspan="4">专业核心</th></tr>
   <tr>
-    <td><a href="courses/%E4%B8%93%E4%B8%9A%E6%A0%B8%E5%BF%83/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%EF%BC%88%E4%B8%93%E4%B8%9A%E6%A0%B8%E5%BF%83%EF%BC%89/">人工智能</a></td>
-    <td><a href="courses/%E4%B8%93%E4%B8%9A%E6%A0%B8%E5%BF%83/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%EF%BC%88%E4%B8%93%E4%B8%9A%E6%A0%B8%E5%BF%83%EF%BC%89/">数据库系统</a></td>
-    <td><a href="courses/%E4%B8%93%E4%B8%9A%E6%A0%B8%E5%BF%83/%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%88%86%E6%9E%90%EF%BC%88%E4%B8%93%E4%B8%9A%E6%A0%B8%E5%BF%83%EF%BC%89/">算法设计与分析</a></td>
-    <td><a href="courses/%E4%B8%93%E4%B8%9A%E6%A0%B8%E5%BF%83/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%EF%BC%88%E4%B8%93%E4%B8%9A%E6%A0%B8%E5%BF%83%EF%BC%89/">编译原理</a></td>
+    <td><a href="courses/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%EF%BC%88%E4%B8%93%E4%B8%9A%E6%A0%B8%E5%BF%83%EF%BC%89">人工智能</a></td>
+    <td><a href="courses/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%EF%BC%88%E4%B8%93%E4%B8%9A%E6%A0%B8%E5%BF%83%EF%BC%89">数据库系统</a></td>
+    <td><a href="courses/%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%88%86%E6%9E%90%EF%BC%88%E4%B8%93%E4%B8%9A%E6%A0%B8%E5%BF%83%EF%BC%89">算法设计与分析</a></td>
+    <td><a href="courses/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%EF%BC%88%E4%B8%93%E4%B8%9A%E6%A0%B8%E5%BF%83%EF%BC%89">编译原理</a></td>
   </tr>
   <tr>
-    <td><a href="courses/%E4%B8%93%E4%B8%9A%E6%A0%B8%E5%BF%83/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84%EF%BC%88%E4%B8%93%E4%B8%9A%E6%A0%B8%E5%BF%83%EF%BC%89/">计算机体系结构</a></td>
-    <td><a href="courses/%E4%B8%93%E4%B8%9A%E6%A0%B8%E5%BF%83/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%EF%BC%88%E4%B8%93%E4%B8%9A%E6%A0%B8%E5%BF%83%EF%BC%89/">计算机网络</a></td>
+    <td><a href="courses/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84%EF%BC%88%E4%B8%93%E4%B8%9A%E6%A0%B8%E5%BF%83%EF%BC%89">计算机体系结构</a></td>
+    <td><a href="courses/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%EF%BC%88%E4%B8%93%E4%B8%9A%E6%A0%B8%E5%BF%83%EF%BC%89">计算机网络</a></td>
     <td></td>
     <td></td>
   </tr>
   <tr><th colspan="4">专业选修</th></tr>
   <tr>
-    <td><a href="courses/%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE/%E4%BA%91%E8%AE%A1%E7%AE%97%EF%BC%88%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE%EF%BC%89/">云计算</a></td>
-    <td><a href="courses/%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE/%E5%B9%B6%E8%A1%8C%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%88%86%E6%9E%90%EF%BC%88%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE%EF%BC%89/">并行算法设计与分析</a></td>
-    <td><a href="courses/%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE/%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98%EF%BC%88%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE%EF%BC%89/">数据挖掘</a></td>
-    <td><a href="courses/%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE/%E6%A8%A1%E5%BC%8F%E8%AF%86%E5%88%AB%EF%BC%88%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE%EF%BC%89/">模式识别</a></td>
+    <td><a href="courses/%E4%BA%91%E8%AE%A1%E7%AE%97%EF%BC%88%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE%EF%BC%89">云计算</a></td>
+    <td><a href="courses/%E5%B9%B6%E8%A1%8C%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%88%86%E6%9E%90%EF%BC%88%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE%EF%BC%89">并行算法设计与分析</a></td>
+    <td><a href="courses/%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98%EF%BC%88%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE%EF%BC%89">数据挖掘</a></td>
+    <td><a href="courses/%E6%A8%A1%E5%BC%8F%E8%AF%86%E5%88%AB%EF%BC%88%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE%EF%BC%89">模式识别</a></td>
   </tr>
   <tr>
-    <td><a href="courses/%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE/%E6%B6%89%E5%AF%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F%E7%AE%A1%E7%90%86%EF%BC%88%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE%EF%BC%89/">涉密信息系统管理</a></td>
-    <td><a href="courses/%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%EF%BC%88%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE%EF%BC%89/">深度学习</a></td>
-    <td><a href="courses/%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE/%E7%BD%91%E7%BB%9C%E6%94%BB%E9%98%B2%EF%BC%88%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE%EF%BC%89/">网络攻防</a></td>
-    <td><a href="courses/%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%EF%BC%88%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE%EF%BC%89/">计算机视觉</a></td>
+    <td><a href="courses/%E6%B6%89%E5%AF%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F%E7%AE%A1%E7%90%86%EF%BC%88%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE%EF%BC%89">涉密信息系统管理</a></td>
+    <td><a href="courses/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%EF%BC%88%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE%EF%BC%89">深度学习</a></td>
+    <td><a href="courses/%E7%BD%91%E7%BB%9C%E6%94%BB%E9%98%B2%EF%BC%88%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE%EF%BC%89">网络攻防</a></td>
+    <td><a href="courses/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%EF%BC%88%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE%EF%BC%89">计算机视觉</a></td>
   </tr>
   <tr>
-    <td><a href="courses/%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE/%E8%BD%AF%E4%BB%B6%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86%EF%BC%88%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE%EF%BC%89/">软件项目管理</a></td>
-    <td><a href="courses/%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80%EF%BC%88%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE%EF%BC%89/">信息安全数学基础</a></td>
+    <td><a href="courses/%E8%BD%AF%E4%BB%B6%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86%EF%BC%88%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE%EF%BC%89">软件项目管理</a></td>
+    <td><a href="courses/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80%EF%BC%88%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE%EF%BC%89">信息安全数学基础</a></td>
     <td></td>
     <td></td>
   </tr>
   <tr><th colspan="4">学类核心</th></tr>
   <tr>
-    <td><a href="courses/%E5%AD%A6%E7%B1%BB%E6%A0%B8%E5%BF%83/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%EF%BC%88%E5%AD%A6%E7%B1%BB%E6%A0%B8%E5%BF%83%EF%BC%89/">操作系统</a></td>
-    <td><a href="courses/%E5%AD%A6%E7%B1%BB%E6%A0%B8%E5%BF%83/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%EF%BC%88%E5%AD%A6%E7%B1%BB%E6%A0%B8%E5%BF%83%EF%BC%89/">数据结构与算法分析</a></td>
-    <td><a href="courses/%E5%AD%A6%E7%B1%BB%E6%A0%B8%E5%BF%83/%E7%94%B5%E5%AD%90%E7%94%B5%E8%B7%AF%E5%AD%A6%EF%BC%88%E5%AD%A6%E7%B1%BB%E6%A0%B8%E5%BF%83%EF%BC%89/">电子电路学</a></td>
-    <td><a href="courses/%E5%AD%A6%E7%B1%BB%E6%A0%B8%E5%BF%83/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%EF%BC%88%E5%AD%A6%E7%B1%BB%E6%A0%B8%E5%BF%83%EF%BC%89/">离散数学</a></td>
+    <td><a href="courses/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%EF%BC%88%E5%AD%A6%E7%B1%BB%E6%A0%B8%E5%BF%83%EF%BC%89">操作系统</a></td>
+    <td><a href="courses/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%EF%BC%88%E5%AD%A6%E7%B1%BB%E6%A0%B8%E5%BF%83%EF%BC%89">数据结构与算法分析</a></td>
+    <td><a href="courses/%E7%94%B5%E5%AD%90%E7%94%B5%E8%B7%AF%E5%AD%A6%EF%BC%88%E5%AD%A6%E7%B1%BB%E6%A0%B8%E5%BF%83%EF%BC%89">电子电路学</a></td>
+    <td><a href="courses/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%EF%BC%88%E5%AD%A6%E7%B1%BB%E6%A0%B8%E5%BF%83%EF%BC%89">离散数学</a></td>
   </tr>
   <tr>
-    <td><a href="courses/%E5%AD%A6%E7%B1%BB%E6%A0%B8%E5%BF%83/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%EF%BC%88%E5%AD%A6%E7%B1%BB%E6%A0%B8%E5%BF%83%EF%BC%89/">程序设计</a></td>
-    <td><a href="courses/%E5%AD%A6%E7%B1%BB%E6%A0%B8%E5%BF%83/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%EF%BC%88%E5%AD%A6%E7%B1%BB%E6%A0%B8%E5%BF%83%EF%BC%89/">计算机系统</a></td>
+    <td><a href="courses/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%EF%BC%88%E5%AD%A6%E7%B1%BB%E6%A0%B8%E5%BF%83%EF%BC%89">程序设计</a></td>
+    <td><a href="courses/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%EF%BC%88%E5%AD%A6%E7%B1%BB%E6%A0%B8%E5%BF%83%EF%BC%89">计算机系统</a></td>
     <td></td>
     <td></td>
   </tr>
   <tr><th colspan="4">学门核心</th></tr>
   <tr>
-    <td><a href="courses/%E5%AD%A6%E9%97%A8%E6%A0%B8%E5%BF%83/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86A1%EF%BC%88%E5%AD%A6%E9%97%A8%E6%A0%B8%E5%BF%83%EF%BC%89/">大学物理A1</a></td>
-    <td><a href="courses/%E5%AD%A6%E9%97%A8%E6%A0%B8%E5%BF%83/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86A2%EF%BC%88%E5%AD%A6%E9%97%A8%E6%A0%B8%E5%BF%83%EF%BC%89/">大学物理A2</a></td>
-    <td><a href="courses/%E5%AD%A6%E9%97%A8%E6%A0%B8%E5%BF%83/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8CA1%EF%BC%88%E5%AD%A6%E9%97%A8%E6%A0%B8%E5%BF%83%EF%BC%89/">大学物理实验A1</a></td>
-    <td><a href="courses/%E5%AD%A6%E9%97%A8%E6%A0%B8%E5%BF%83/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8CA2%EF%BC%88%E5%AD%A6%E9%97%A8%E6%A0%B8%E5%BF%83%EF%BC%89/">大学物理实验A2</a></td>
+    <td><a href="courses/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86A1%EF%BC%88%E5%AD%A6%E9%97%A8%E6%A0%B8%E5%BF%83%EF%BC%89">大学物理A1</a></td>
+    <td><a href="courses/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86A2%EF%BC%88%E5%AD%A6%E9%97%A8%E6%A0%B8%E5%BF%83%EF%BC%89">大学物理A2</a></td>
+    <td><a href="courses/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8CA1%EF%BC%88%E5%AD%A6%E9%97%A8%E6%A0%B8%E5%BF%83%EF%BC%89">大学物理实验A1</a></td>
+    <td><a href="courses/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8CA2%EF%BC%88%E5%AD%A6%E9%97%A8%E6%A0%B8%E5%BF%83%EF%BC%89">大学物理实验A2</a></td>
   </tr>
   <tr>
-    <td><a href="courses/%E5%AD%A6%E9%97%A8%E6%A0%B8%E5%BF%83/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%EF%BC%88%E5%AD%A6%E9%97%A8%E6%A0%B8%E5%BF%83%EF%BC%89/">概率论与数理统计</a></td>
-    <td><a href="courses/%E5%AD%A6%E9%97%A8%E6%A0%B8%E5%BF%83/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%EF%BC%88%E5%AD%A6%E9%97%A8%E6%A0%B8%E5%BF%83%EF%BC%89/">线性代数</a></td>
-    <td><a href="courses/%E5%AD%A6%E9%97%A8%E6%A0%B8%E5%BF%83/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6A1%EF%BC%88%E5%AD%A6%E9%97%A8%E6%A0%B8%E5%BF%83%EF%BC%89/">高等数学A1</a></td>
-    <td><a href="courses/%E5%AD%A6%E9%97%A8%E6%A0%B8%E5%BF%83/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6A2%EF%BC%88%E5%AD%A6%E9%97%A8%E6%A0%B8%E5%BF%83%EF%BC%89/">高等数学A2</a></td>
+    <td><a href="courses/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%EF%BC%88%E5%AD%A6%E9%97%A8%E6%A0%B8%E5%BF%83%EF%BC%89">概率论与数理统计</a></td>
+    <td><a href="courses/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%EF%BC%88%E5%AD%A6%E9%97%A8%E6%A0%B8%E5%BF%83%EF%BC%89">线性代数</a></td>
+    <td><a href="courses/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6A1%EF%BC%88%E5%AD%A6%E9%97%A8%E6%A0%B8%E5%BF%83%EF%BC%89">高等数学A1</a></td>
+    <td><a href="courses/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6A2%EF%BC%88%E5%AD%A6%E9%97%A8%E6%A0%B8%E5%BF%83%EF%BC%89">高等数学A2</a></td>
   </tr>
   <tr><th colspan="4">通识选修</th></tr>
   <tr>
-    <td><a href="courses/%E9%80%9A%E8%AF%86%E9%80%89%E4%BF%AE/%E8%BF%91%E4%BB%A3%E5%8F%B2%E7%BA%B2%E8%A6%81%EF%BC%88%E9%80%9A%E8%AF%86%E9%80%89%E4%BF%AE%EF%BC%89/">近代史纲要</a></td>
-    <td><a href="courses/%E9%80%9A%E8%AF%86%E9%80%89%E4%BF%AE/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%8E%9F%E7%90%86%EF%BC%88%E9%80%9A%E8%AF%86%E9%80%89%E4%BF%AE%EF%BC%89/">马克思主义原理</a></td>
+    <td><a href="courses/%E8%BF%91%E4%BB%A3%E5%8F%B2%E7%BA%B2%E8%A6%81%EF%BC%88%E9%80%9A%E8%AF%86%E9%80%89%E4%BF%AE%EF%BC%89">近代史纲要</a></td>
+    <td><a href="courses/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%8E%9F%E7%90%86%EF%BC%88%E9%80%9A%E8%AF%86%E9%80%89%E4%BF%AE%EF%BC%89">马克思主义原理</a></td>
     <td></td>
     <td></td>
   </tr>
   <tr><th colspan="4">小学期&amp;工训</th></tr>
   <tr>
-    <td><a href="practicals/%E5%B0%8F%E5%AD%A6%E6%9C%9F/%E8%BD%AF%E4%BB%B6%E8%83%BD%E5%8A%9B%E5%AE%9E%E8%AE%AD%EF%BC%88%E5%B0%8F%E5%AD%A6%E6%9C%9F1%EF%BC%89/">软件能力实训</a></td>
-    <td><a href="practicals/%E5%B0%8F%E5%AD%A6%E6%9C%9F/%E7%94%B5%E5%AD%90%E5%AE%9E%E8%AE%AD%EF%BC%88%E5%B0%8F%E5%AD%A6%E6%9C%9F2%EF%BC%89/">电子实训</a></td>
-    <td><a href="practicals/%E5%B0%8F%E5%AD%A6%E6%9C%9F/%E4%B8%93%E4%B8%9A%E7%BB%BC%E5%90%88%E8%AE%BE%E8%AE%A1%EF%BC%88%E5%B0%8F%E5%AD%A6%E6%9C%9F3%EF%BC%89/">专业综合设计</a></td>
-    <td><a href="practicals/%E5%B7%A5%E8%AE%AD/%E7%94%B5%E5%AD%90%E6%B5%8B%E8%AF%95%E5%B9%B3%E5%8F%B0%E4%B8%8E%E5%B7%A5%E5%85%B71%EF%BC%88%E5%B7%A5%E8%AE%AD%EF%BC%89/">电子测试平台与工具1</a></td>
+    <td><a href="practicals/%E8%BD%AF%E4%BB%B6%E8%83%BD%E5%8A%9B%E5%AE%9E%E8%AE%AD%EF%BC%88%E5%B0%8F%E5%AD%A6%E6%9C%9F1%EF%BC%89">软件能力实训</a></td>
+    <td><a href="practicals/%E7%94%B5%E5%AD%90%E5%AE%9E%E8%AE%AD%EF%BC%88%E5%B0%8F%E5%AD%A6%E6%9C%9F2%EF%BC%89">电子实训</a></td>
+    <td><a href="practicals/%E4%B8%93%E4%B8%9A%E7%BB%BC%E5%90%88%E8%AE%BE%E8%AE%A1%EF%BC%88%E5%B0%8F%E5%AD%A6%E6%9C%9F3%EF%BC%89">专业综合设计</a></td>
+    <td><a href="practicals/%E7%94%B5%E5%AD%90%E6%B5%8B%E8%AF%95%E5%B9%B3%E5%8F%B0%E4%B8%8E%E5%B7%A5%E5%85%B71%EF%BC%88%E5%B7%A5%E8%AE%AD%EF%BC%89">电子测试平台与工具1</a></td>
   </tr>
   <tr>
-    <td><a href="practicals/%E5%B7%A5%E8%AE%AD/%E7%94%B5%E5%AD%90%E6%B5%8B%E8%AF%95%E5%B9%B3%E5%8F%B0%E4%B8%8E%E5%B7%A5%E5%85%B72%EF%BC%88%E5%B7%A5%E8%AE%AD%EF%BC%89/">电子测试平台与工具2</a></td>
+    <td><a href="practicals/%E7%94%B5%E5%AD%90%E6%B5%8B%E8%AF%95%E5%B9%B3%E5%8F%B0%E4%B8%8E%E5%B7%A5%E5%85%B72%EF%BC%88%E5%B7%A5%E8%AE%AD%EF%BC%89">电子测试平台与工具2</a></td>
     <td></td>
     <td></td>
     <td></td>
@@ -90,7 +90,7 @@
 </table>
 <!-- COURSE-NAV:END -->
 
-课程按类别收录于 `courses/`，小学期与工训收录于 `practicals/`。课程笔记与竞赛资料位于上表“其他”栏目。点击名称即可进入相应资料文件夹。
+课程文件夹直接收录于 `courses/`，5 个小学期与工训文件夹直接收录于 `practicals/`，全部笔记文件直接放在 `notes/`。课程笔记与竞赛资料位于上表“其他”栏目。点击名称即可进入相应资料文件夹。
 
 ## 📖 使用指南
 
