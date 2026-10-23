@@ -30,7 +30,7 @@
   </tr>
   <tr>
     <td><a href="courses/%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE/%E8%BD%AF%E4%BB%B6%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86%EF%BC%88%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE%EF%BC%89/">软件项目管理</a></td>
-    <td></td>
+    <td><a href="courses/%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80%EF%BC%88%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE%EF%BC%89/">信息安全数学基础</a></td>
     <td></td>
     <td></td>
   </tr>
@@ -67,31 +67,32 @@
     <td></td>
     <td></td>
   </tr>
-  <tr><th colspan="4">小学期</th></tr>
+  <tr><th colspan="4">小学期&amp;工训</th></tr>
   <tr>
     <td><a href="practicals/%E5%B0%8F%E5%AD%A6%E6%9C%9F/%E8%BD%AF%E4%BB%B6%E8%83%BD%E5%8A%9B%E5%AE%9E%E8%AE%AD%EF%BC%88%E5%B0%8F%E5%AD%A6%E6%9C%9F1%EF%BC%89/">软件能力实训</a></td>
     <td><a href="practicals/%E5%B0%8F%E5%AD%A6%E6%9C%9F/%E7%94%B5%E5%AD%90%E5%AE%9E%E8%AE%AD%EF%BC%88%E5%B0%8F%E5%AD%A6%E6%9C%9F2%EF%BC%89/">电子实训</a></td>
     <td><a href="practicals/%E5%B0%8F%E5%AD%A6%E6%9C%9F/%E4%B8%93%E4%B8%9A%E7%BB%BC%E5%90%88%E8%AE%BE%E8%AE%A1%EF%BC%88%E5%B0%8F%E5%AD%A6%E6%9C%9F3%EF%BC%89/">专业综合设计</a></td>
-    <td></td>
-  </tr>
-  <tr><th colspan="4">工训</th></tr>
-  <tr>
     <td><a href="practicals/%E5%B7%A5%E8%AE%AD/%E7%94%B5%E5%AD%90%E6%B5%8B%E8%AF%95%E5%B9%B3%E5%8F%B0%E4%B8%8E%E5%B7%A5%E5%85%B71%EF%BC%88%E5%B7%A5%E8%AE%AD%EF%BC%89/">电子测试平台与工具1</a></td>
+  </tr>
+  <tr>
     <td><a href="practicals/%E5%B7%A5%E8%AE%AD/%E7%94%B5%E5%AD%90%E6%B5%8B%E8%AF%95%E5%B9%B3%E5%8F%B0%E4%B8%8E%E5%B7%A5%E5%85%B72%EF%BC%88%E5%B7%A5%E8%AE%AD%EF%BC%89/">电子测试平台与工具2</a></td>
     <td></td>
     <td></td>
-  </tr>
-  <tr><th colspan="4">待确认分类</th></tr>
-  <tr>
-    <td><a href="courses/%E5%BE%85%E7%A1%AE%E8%AE%A4%E5%88%86%E7%B1%BB/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80/">信息安全数学基础</a></td>
     <td></td>
+  </tr>
+  <tr><th colspan="4">其他</th></tr>
+  <tr>
+    <td><a href="notes/">课程笔记</a></td>
+    <td><a href="competitions/">竞赛资料</a></td>
     <td></td>
     <td></td>
   </tr>
 </table>
 <!-- COURSE-NAV:END -->
 
-课程按类别收录于 `courses/`，小学期与工训收录于 `practicals/`。全部课程笔记集中在 [notes](./notes/)，竞赛与算法训练见 [competitions](./competitions/)。点击上表课程名进入相应资料文件夹。
+课程按类别收录于 `courses/`，小学期与工训收录于 `practicals/`。课程笔记与竞赛资料位于上表“其他”栏目。点击名称即可进入相应资料文件夹。
+
+## 📖 使用指南
 
 这里是甘晴void的**HNU课程资源仓库**，主要是**计算机类**（计算机科学与技术，软件工程，人工智能，信息安全，数字媒体技术，物联网，保密技术等专业）的核心课程、部分通识类课程以及所有工训类课程的资料，包括期中期末考卷、机考题、作业答案、代码、工程项目、小班讨论等（不包括老师上课使用的PPT以及其他可能引起知识产权/版权问题的资料）。希望以一个经历者的视角帮助各位HNU-CSer们更好地landing，希望能对您有帮助。
 
@@ -102,21 +103,6 @@
 - 交流：如果有有关学业上的问题（如何学习课程，如何缓解焦虑，如何规划学业，如何保研定位等问题）欢迎**提Disscussions/issues**，或您对他人的问题有自己的见解，请不吝赐教。我希望能建设成大家互相学习进步的树洞。
 
 ## 🤝 共建者致谢与召集
-
-本仓库目前由我个人维护，虽然已涵盖较广泛，但 一门课 ≠ 一个人的视角。不同老师、不同年级、不同方向的考核重点都有差异，因此我非常欢迎各位同学​加入共建，让这份资源更全面、更准确、也更可持续。
-
-您可以贡献什么：
-- 📄 课程历年 期中 / 期末试题（含回忆版）
-- 💻 机考题、实验指导、代码实现
-- 🛠️ 工训 / 课程设计 完整工程文件
-- 📝 小班讨论、复习提纲、备考经验
-- 🐞 对本仓库现有内容的 纠错与补充
-
-如何贡献：
-
-- Fork 本仓库​ → 提交 PR（推荐）
-- 或 提 Issue​ 说明你想补充的内容
-- 或 直接联系我（Issue / Discussions）
 
 感谢以下同学对仓库建设的贡献 ❤️  
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
@@ -150,6 +136,21 @@
 
 > ✅ **如何出现在列表中？**  
 > 提交一次有效 PR / Issue 即可被收录 🎉
+
+本仓库目前由我个人维护，虽然已涵盖较广泛，但 一门课 ≠ 一个人的视角。不同老师、不同年级、不同方向的考核重点都有差异，因此我非常欢迎各位同学​加入共建，让这份资源更全面、更准确、也更可持续。
+
+您可以贡献什么：
+- 📄 课程历年 期中 / 期末试题（含回忆版）
+- 💻 机考题、实验指导、代码实现
+- 🛠️ 工训 / 课程设计 完整工程文件
+- 📝 小班讨论、复习提纲、备考经验
+- 🐞 对本仓库现有内容的 纠错与补充
+
+如何贡献：
+
+- Fork 本仓库​ → 提交 PR（推荐）
+- 或 提 Issue​ 说明你想补充的内容
+- 或 直接联系我（Issue / Discussions）
 
 ## 🙏 个人致谢
 
